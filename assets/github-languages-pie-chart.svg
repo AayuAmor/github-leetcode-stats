@@ -145,44 +145,44 @@
 
         
         <!-- Kotlin -->
-        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 159.61336091431724,128.78511965507434 Z" fill="Pink" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_1" x="260" y="150" fill="Pink" stroke="Pink" stroke-width="1" >Kotlin</text>
+        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 159.61336091431724,128.78511965507434 Z" fill="Tan" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_1" x="260" y="150" fill="Tan" stroke="Tan" stroke-width="1" >Kotlin</text>
 
         
         
         <!-- JavaScript -->
-        <path class="path_2" d="M 60,120 L 159.61336091431724,128.78511965507434 A 100,100 0 0 1 65.02443181797696,219.87369566060175 Z" fill="Coral" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_2" x="260" y="170" fill="Coral" stroke="Coral" stroke-width="1" >JavaScript</text>
+        <path class="path_2" d="M 60,120 L 159.61336091431724,128.78511965507434 A 100,100 0 0 1 65.02443181797696,219.87369566060175 Z" fill="Orange" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_2" x="260" y="170" fill="Orange" stroke="Orange" stroke-width="1" >JavaScript</text>
 
         
         
         <!-- TypeScript -->
-        <path class="path_3" d="M 60,120 L 65.02443181797696,219.87369566060175 A 100,100 0 0 1 -28.229122643495344,167.07039321653323 Z" fill="SteelBlue" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_3" x="260" y="190" fill="SteelBlue" stroke="SteelBlue" stroke-width="1" >TypeScript</text>
+        <path class="path_3" d="M 60,120 L 65.02443181797696,219.87369566060175 A 100,100 0 0 1 -28.229122643495344,167.07039321653323 Z" fill="Orchid" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_3" x="260" y="190" fill="Orchid" stroke="Orchid" stroke-width="1" >TypeScript</text>
 
         
         
         <!-- Java -->
-        <path class="path_4" d="M 60,120 L -28.229122643495344,167.07039321653323 A 100,100 0 0 1 -36.372367829000964,93.30980106796245 Z" fill="Tomato" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_4" x="260" y="210" fill="Tomato" stroke="Tomato" stroke-width="1" >Java</text>
+        <path class="path_4" d="M 60,120 L -28.229122643495344,167.07039321653323 A 100,100 0 0 1 -36.372367829000964,93.30980106796245 Z" fill="DarkKhaki" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_4" x="260" y="210" fill="DarkKhaki" stroke="DarkKhaki" stroke-width="1" >Java</text>
 
         
         
         <!-- Python -->
-        <path class="path_5" d="M 60,120 L -36.372367829000964,93.30980106796245 A 100,100 0 0 1 -6.60118674342516,45.40588545758179 Z" fill="DarkKhaki" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_5" x="260" y="230" fill="DarkKhaki" stroke="DarkKhaki" stroke-width="1" >Python</text>
+        <path class="path_5" d="M 60,120 L -36.372367829000964,93.30980106796245 A 100,100 0 0 1 -6.60118674342516,45.40588545758179 Z" fill="DodgerBlue" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_5" x="260" y="230" fill="DodgerBlue" stroke="DodgerBlue" stroke-width="1" >Python</text>
 
         
         
         <!-- Rust -->
-        <path class="path_6" d="M 60,120 L -6.60118674342516,45.40588545758179 A 100,100 0 0 1 19.13509252636512,28.730841259649708 Z" fill="Salmon" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_6" x="260" y="250" fill="Salmon" stroke="Salmon" stroke-width="1" >Rust</text>
+        <path class="path_6" d="M 60,120 L -6.60118674342516,45.40588545758179 A 100,100 0 0 1 19.13509252636512,28.730841259649708 Z" fill="Tomato" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_6" x="260" y="250" fill="Tomato" stroke="Tomato" stroke-width="1" >Rust</text>
 
         
         
         <!-- HTML -->
-        <path class="path_7" d="M 60,120 L 19.13509252636512,28.730841259649708 A 100,100 0 0 1 48.09028399051295,20.711739543018638 Z" fill="Crimson" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_7" x="260" y="270" fill="Crimson" stroke="Crimson" stroke-width="1" >HTML</text>
+        <path class="path_7" d="M 60,120 L 19.13509252636512,28.730841259649708 A 100,100 0 0 1 48.09028399051295,20.711739543018638 Z" fill="MediumSlateBlue" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_7" x="260" y="270" fill="MediumSlateBlue" stroke="MediumSlateBlue" stroke-width="1" >HTML</text>
 
         
         
@@ -193,14 +193,14 @@
         
         
         <!-- Shell -->
-        <path class="path_9" d="M 60,120 L 57.486990455666124,20.031581071670004 A 100,100 0 0 1 58.74339601166471,20.007895579618392 Z" fill="Orchid" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_9" x="260" y="310" fill="Orchid" stroke="Orchid" stroke-width="1" >Shell</text>
+        <path class="path_9" d="M 60,120 L 57.486990455666124,20.031581071670004 A 100,100 0 0 1 58.74339601166471,20.007895579618392 Z" fill="MediumTurquoise" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_9" x="260" y="310" fill="MediumTurquoise" stroke="MediumTurquoise" stroke-width="1" >Shell</text>
 
         
         
         <!-- Dockerfile -->
-        <path class="path_10" d="M 60,120 L 58.74339601166471,20.007895579618392 A 100,100 0 0 1 59.371685603444035,20.001973914386284 Z" fill="LightSeaGreen" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_10" x="260" y="330" fill="LightSeaGreen" stroke="LightSeaGreen" stroke-width="1" >Dockerfile</text>
+        <path class="path_10" d="M 60,120 L 58.74339601166471,20.007895579618392 A 100,100 0 0 1 59.371685603444035,20.001973914386284 Z" fill="RosyBrown" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_10" x="260" y="330" fill="RosyBrown" stroke="RosyBrown" stroke-width="1" >Dockerfile</text>
 
         
     <g class="label"> 
