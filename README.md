@@ -5,7 +5,7 @@
 This repository contains a tool that generates dynamically updated statistics 
 for your GitHub profile and LeetCode account.
 
-last automatic update: Sunday, 6 September at 06:00 CEST
+last automatic update: Monday, 7 September at 05:59 CEST
 
 ![chart-bar](/assets/github-total-bicycle.svg)
 
